@@ -1,0 +1,11 @@
+{
+  "name": "node_game",
+  "version": "1.0.0",
+  "description": "very first node game..",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Dupree",
+  "license": "ISC"
+}
